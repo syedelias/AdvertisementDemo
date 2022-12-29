@@ -1,0 +1,91 @@
+body {
+    width: 1100px;
+    margin: auto;
+    background-color: bisque;
+}
+.container {
+    width: 1100px;
+    margin: auto;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+/* Example1 */
+h1 {
+    font-size: 50px;
+    font-weight: 100;
+}
+.Tshirt {
+    width: 45%;
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+    padding-left: 10px;
+}
+.Tshirt1 {
+    width: 40%;
+    margin: auto;
+}
+.Tshirt1 img {
+    width: 100%;
+}
+.Pants {
+    width: 45%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 25px 10px;
+    padding-top: 6%;
+}
+.Pants1 {
+    width: 40%;
+    margin: auto;
+}
+.Pants1 img {
+    width: 100%;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+/* Example2 */
+.Box1 {
+    width: 30%;
+    margin: auto;
+    border: 2px solid black;
+    padding-left: 15px;
+}
+/* Example3 */ 
+.boxone {
+    width: 100%;
+    margin: auto;
+}
+.boxone_1 {
+    width: 35%;
+    margin: auto;
+    padding: 40px;
+}
+.boxone_1 img{
+    width: 100%;
+}
+/* Example4 */
+.fristbox {
+    width: 40%;
+    margin: auto;
+}
+.secondbox {
+    width: 50%;
+    margin: auto;
+}
+.example4 img {
+    width: 100%;
+    border: 2px solid black;
+}
+.example4 {
+    padding-bottom: 5%;
+    padding-top: 5%;
+    border: 2px solid black;
+}
+.secondbox_1 {
+    width: 40%;
+    margin: auto;
+}
